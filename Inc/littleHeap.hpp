@@ -8,7 +8,7 @@
 template <typename T>
 class heap
 {
-	private : 
+private : 
 	
 	T *array;
 	
